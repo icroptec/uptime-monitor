@@ -1,31 +1,21 @@
-# Change these first
-owner: icroptec # Your GitHub organization or username, where this repository lives
-repo: uptime-monitor # The name of this repository
+owner: icroptec
+repo: uptime-monitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Icrop Website
+    url: https://icrop.com.br
+  - name: Vision
+    url: https://vision.icrop.online
+  - name: Power
+    url: https://icroppower.icrop.com.br
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+status-website:  
   baseUrl: /uptime-monitor
   logoUrl: https://icrop.com.br/franquias/2/30340/editor-html/8940638.png
-  name: Uptime Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime Monitor  
+  themeUrl: https://icroptec.github.io/uptime-monitor/my-custom-theme.css
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://icrop.com.br    
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+robotsText: "User-agent: *"

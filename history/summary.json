@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2891,
-    "timeDay": 2891,
-    "timeWeek": 2891,
-    "timeMonth": 2891,
-    "timeYear": 2891,
+    "time": 2610,
+    "timeDay": 2610,
+    "timeWeek": 2610,
+    "timeMonth": 2610,
+    "timeYear": 2610,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/vision.icrop.online",
     "slug": "vision",
     "status": "down",
-    "uptime": "20.11%",
-    "uptimeDay": "20.11%",
-    "uptimeWeek": "20.11%",
-    "uptimeMonth": "20.11%",
-    "uptimeYear": "20.11%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 27
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   }
 ]

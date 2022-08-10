@@ -13,7 +13,7 @@ status-website:
   baseUrl: /uptime-monitor
   logoUrl: https://icrop.com.br/franquias/2/30340/editor-html/8940638.png
   name: Uptime Monitor  
-  themeUrl: https://icroptec.github.io/uptime-monitor/my-custom-theme.css
+  theme: night
   navbar:
     - title: Status
       href: https://icrop.com.br    

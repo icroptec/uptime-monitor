@@ -2,8 +2,7 @@ owner: icroptec
 repo: uptime-monitor
 
 sites:
-  - name: Vision
-    url: https://vision.icrop.online
+  - name: Vision    
     check: "tcp-ping"
     url: 35.247.200.245
     port: 80

@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vision",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 130,
     "timeDay": 143,
     "timeWeek": 121,
@@ -42,9 +42,9 @@
     "url": "https://fleet.icrop.online",
     "icon": "https://favicons.githubusercontent.com/fleet.icrop.online",
     "slug": "fleet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 96,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 0
+    }
   },
   {
     "name": "Icrop Website",

@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.icrop.online.ico",
     "slug": "fleet",
     "status": "down",
-    "uptime": "21.63%",
+    "uptime": "21.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.63%",
+    "uptimeYear": "21.32%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-10-04": 4,
+      "2022-10-04": 1171,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
@@ -105,9 +105,9 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 9668,
     "timeMonth": 4364,
     "timeYear": 3750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-04": 0
+    }
   },
   {
     "name": "IOT",

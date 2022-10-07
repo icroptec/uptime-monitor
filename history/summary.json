@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.icrop.online.ico",
     "slug": "fleet",
     "status": "down",
-    "uptime": "20.34%",
+    "uptime": "20.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.34%",
+    "uptimeYear": "20.27%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-10-07": 636,
+      "2022-10-07": 935,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
@@ -198,19 +198,19 @@
     "url": "https://api.ruhwater.com.br/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/api.ruhwater.com.br.ico",
     "slug": "ruhwater",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 314,
     "timeWeek": 361,
     "timeMonth": 378,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2022-10-07": 12
+      "2022-10-07": 0
     }
   }
 ]

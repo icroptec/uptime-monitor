@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-10-15": 1079,
+      "2022-10-15": 1086,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
@@ -116,19 +116,19 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4334,
-    "timeDay": 5403,
-    "timeWeek": 6090,
-    "timeMonth": 6080,
-    "timeYear": 4334,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4325,
+    "timeDay": 4545,
+    "timeWeek": 5789,
+    "timeMonth": 6005,
+    "timeYear": 4325,
     "dailyMinutesDown": {
-      "2022-10-15": 0
+      "2022-10-15": 7
     }
   },
   {

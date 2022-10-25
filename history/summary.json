@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.icrop.online.ico",
     "slug": "fleet",
     "status": "down",
-    "uptime": "15.55%",
+    "uptime": "15.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.55%",
+    "uptimeYear": "15.45%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-10-25": 274,
+      "2022-10-25": 964,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
@@ -146,10 +146,10 @@
     "url": "https://iot.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/iot.icrop.com.br.ico",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
@@ -157,7 +157,9 @@
     "timeWeek": 501,
     "timeMonth": 438,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-25": 1
+    }
   },
   {
     "name": "iSensing",

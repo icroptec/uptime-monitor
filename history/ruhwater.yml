@@ -1,7 +1,7 @@
 url: https://api.ruhwater.com.br/gateway
-status: down
-code: 502
-responseTime: 195
-lastUpdated: 2022-11-09T14:59:31.099Z
+status: up
+code: 200
+responseTime: 208
+lastUpdated: 2022-11-09T16:07:33.938Z
 startTime: Wed Aug 10 2022 21:52:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

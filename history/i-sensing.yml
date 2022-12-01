@@ -1,7 +1,7 @@
 url: https://isensing.icrop.com.br
-status: up
-code: 200
-responseTime: 333
-lastUpdated: 2022-11-30T23:03:11.368Z
+status: down
+code: 502
+responseTime: 1905
+lastUpdated: 2022-12-01T17:02:35.783Z
 startTime: Wed Aug 10 2022 21:52:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

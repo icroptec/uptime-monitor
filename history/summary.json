@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-12-05": 1185,
+      "2022-12-05": 1191,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
@@ -227,8 +227,8 @@
     "status": "down",
     "uptime": "96.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.25%",
-    "uptimeMonth": "86.48%",
+    "uptimeWeek": "41.19%",
+    "uptimeMonth": "86.47%",
     "uptimeYear": "96.48%",
     "time": 443,
     "timeDay": 308,
@@ -236,7 +236,7 @@
     "timeMonth": 501,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-12-05": 1185,
+      "2022-12-05": 1191,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
@@ -284,11 +284,11 @@
     "url": "https://api.ruhwater.com.br/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/api.ruhwater.com.br.ico",
     "slug": "ruhwater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.84%",
     "time": 356,
     "timeDay": 302,
@@ -296,7 +296,7 @@
     "timeMonth": 357,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-12-05": 5,
+      "2022-12-05": 0,
       "2022-11-19": 198,
       "2022-11-09": 68
     }

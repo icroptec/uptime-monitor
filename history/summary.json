@@ -4,11 +4,11 @@
     "url": "35.247.200.245",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vision",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 140,
     "timeDay": 142,
@@ -16,6 +16,7 @@
     "timeMonth": 139,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-08-10": 52
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://icroppower.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icroppower.icrop.com.br.ico",
     "slug": "power",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
@@ -35,7 +36,9 @@
     "timeWeek": 442,
     "timeMonth": 464,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Fleet",
@@ -54,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-01-25": 470,
+      "2023-01-25": 502,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -218,10 +221,10 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.51%",
     "time": 11525,
@@ -230,6 +233,7 @@
     "timeMonth": 3028,
     "timeYear": 11525,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-26": 23,
       "2022-12-13": 87,
       "2022-11-26": 17,
@@ -259,10 +263,10 @@
     "url": "https://iot.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/iot.icrop.com.br.ico",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
@@ -270,16 +274,18 @@
     "timeWeek": 433,
     "timeMonth": 427,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "iSensing",
     "url": "https://isensing.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/isensing.icrop.com.br.ico",
     "slug": "i-sensing",
-    "status": "up",
+    "status": "down",
     "uptime": "97.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.04%",
@@ -289,6 +295,7 @@
     "timeMonth": 426,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-06": 958,
       "2022-12-05": 1440,
       "2022-12-04": 1440,

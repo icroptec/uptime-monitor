@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-01-29": 305,
+      "2023-01-29": 312,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -324,19 +324,19 @@
     "url": "https://app.feedz.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.feedz.com.br.ico",
     "slug": "feedz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 668,
-    "timeWeek": 367,
-    "timeMonth": 345,
-    "timeYear": 395,
+    "time": 397,
+    "timeDay": 714,
+    "timeWeek": 416,
+    "timeMonth": 357,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-01-29": 0
+      "2023-01-29": 6
     }
   },
   {

@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-02-27": 921,
+      "2023-02-27": 929,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -294,19 +294,19 @@
     "url": "https://iot.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/iot.icrop.com.br.ico",
     "slug": "iot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 590,
-    "timeWeek": 478,
-    "timeMonth": 477,
+    "timeDay": 512,
+    "timeWeek": 473,
+    "timeMonth": 475,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-02-27": 0
+      "2023-02-27": 8
     }
   },
   {

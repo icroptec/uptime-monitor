@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-03-15": 1376,
+      "2023-03-15": 1381,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -353,19 +353,19 @@
     "url": "https://portal.chatbotmaker.io",
     "icon": "https://icons.duckduckgo.com/ip3/portal.chatbotmaker.io.ico",
     "slug": "suri",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 263,
-    "timeWeek": 213,
-    "timeMonth": 241,
-    "timeYear": 287,
+    "time": 286,
+    "timeDay": 230,
+    "timeWeek": 203,
+    "timeMonth": 236,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2023-03-15": 0
+      "2023-03-15": 6
     }
   },
   {

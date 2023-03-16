@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-03-16": 2,
+      "2023-03-16": 242,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -354,18 +354,20 @@
     "url": "https://portal.chatbotmaker.io",
     "icon": "https://icons.duckduckgo.com/ip3/portal.chatbotmaker.io.ico",
     "slug": "suri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 205,
-    "timeWeek": 215,
-    "timeMonth": 237,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 284,
+    "timeDay": 195,
+    "timeWeek": 208,
+    "timeMonth": 234,
+    "timeYear": 284,
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "Feedz",

@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.icrop.online.ico",
     "slug": "fleet",
     "status": "down",
-    "uptime": "5.37%",
+    "uptime": "5.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "5.37%",
+    "uptimeYear": "5.35%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-03-17": 2,
+      "2023-03-17": 942,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -362,7 +362,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 182,
+    "timeDay": 441,
     "timeWeek": 207,
     "timeMonth": 223,
     "timeYear": 281,
@@ -373,9 +373,9 @@
     "url": "https://app.feedz.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.feedz.com.br.ico",
     "slug": "feedz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -384,7 +384,9 @@
     "timeWeek": 407,
     "timeMonth": 393,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-17": 0
+    }
   },
   {
     "name": "Ruhwater",

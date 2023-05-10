@@ -24,19 +24,19 @@
     "url": "https://icroppower.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icroppower.icrop.com.br.ico",
     "slug": "power",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 419,
-    "timeWeek": 396,
-    "timeMonth": 414,
-    "timeYear": 474,
+    "time": 473,
+    "timeDay": 374,
+    "timeWeek": 387,
+    "timeMonth": 411,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2023-05-10": 0
+      "2023-05-10": 7
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-05-10": 899,
+      "2023-05-10": 905,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,

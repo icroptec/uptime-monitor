@@ -24,9 +24,9 @@
     "url": "https://icroppower.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icroppower.icrop.com.br.ico",
     "slug": "power",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 396,
     "timeMonth": 414,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-10": 0
+    }
   },
   {
     "name": "Fleet",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fleet.icrop.online.ico",
     "slug": "fleet",
     "status": "down",
-    "uptime": "4.30%",
+    "uptime": "4.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.30%",
+    "uptimeYear": "4.29%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-05-10": 2,
+      "2023-05-10": 899,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,

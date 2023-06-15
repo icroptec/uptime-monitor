@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-06-15": 2,
+      "2023-06-15": 238,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
@@ -359,9 +359,9 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -371,6 +371,7 @@
     "timeMonth": 3434,
     "timeYear": 9114,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-04-28": 46,
       "2023-04-26": 44,
       "2023-02-14": 23,

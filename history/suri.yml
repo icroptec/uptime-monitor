@@ -1,7 +1,7 @@
 url: https://portal.chatbotmaker.io
-status: up
-code: 200
-responseTime: 548
-lastUpdated: 2023-10-09T23:03:01.472Z
+status: down
+code: 500
+responseTime: 70
+lastUpdated: 2023-10-10T11:43:27.218Z
 startTime: 2022-08-10T21:52:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

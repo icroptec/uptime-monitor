@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-10": 2,
+      "2023-10-10": 704,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -490,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/isensing.icrop.com.br.ico",
     "slug": "i-sensing",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -514,18 +514,20 @@
     "url": "https://portal.chatbotmaker.io",
     "icon": "https://icons.duckduckgo.com/ip3/portal.chatbotmaker.io.ico",
     "slug": "suri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 548,
-    "timeWeek": 384,
-    "timeMonth": 383,
-    "timeYear": 316,
-    "dailyMinutesDown": {}
+    "time": 307,
+    "timeDay": 309,
+    "timeWeek": 345,
+    "timeMonth": 373,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Feedz",

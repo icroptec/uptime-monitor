@@ -4,9 +4,9 @@
     "url": "35.247.200.245",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vision",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 125,
     "timeMonth": 129,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   },
   {
     "name": "Power",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 2,
+      "2023-12-09": 84,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,

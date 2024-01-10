@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vision",
     "status": "down",
-    "uptime": "93.82%",
+    "uptime": "93.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "91.25%",
+    "uptimeYear": "91.01%",
     "time": 140,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-01-10": 2,
+      "2024-01-10": 1236,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 2,
+      "2024-01-10": 1236,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -483,9 +483,9 @@
     "url": "https://iot.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/iot.icrop.com.br.ico",
     "slug": "iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -494,7 +494,9 @@
     "timeWeek": 201,
     "timeMonth": 247,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "iSensing",

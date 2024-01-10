@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-01-10": 1236,
+      "2024-01-10": 1241,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 1236,
+      "2024-01-10": 1241,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -483,19 +483,19 @@
     "url": "https://iot.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/iot.icrop.com.br.ico",
     "slug": "iot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 272,
-    "timeWeek": 201,
-    "timeMonth": 247,
-    "timeYear": 403,
+    "timeDay": 211,
+    "timeWeek": 195,
+    "timeMonth": 244,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 5
     }
   },
   {

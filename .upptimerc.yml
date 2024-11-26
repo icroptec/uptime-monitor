@@ -2,28 +2,18 @@ owner: icroptec
 repo: uptime-monitor
 
 sites:
-  - name: Vision    
-    check: "tcp-ping"
-    url: 35.247.200.245
-    port: 80
+  - name: Vision
+    url: http://vision.icrop.online
   - name: Power
     url: https://icroppower.icrop.com.br
-  - name: Fleet
-    url: https://fleet.icrop.online
   - name: Icrop Website
     url: https://icrop.com.br
-  - name: IOT  
+  - name: IOT
     url: https://iot.icrop.com.br
-  - name: iSensing
-    url: https://isensing.icrop.com.br
-  - name: Suri
-    url: https://portal.chatbotmaker.io  
-  - name: Feedz  
-    url: https://app.feedz.com.br  
-  - name: Ruhwater
-    url: https://api.ruhwater.com.br/gateway
+  - name: Feedz
+    url: https://app.feedz.com.br
 
-status-website:  
+status-website:
   baseUrl: /uptime-monitor
   logoUrl: https://icrop.com.br/franquias/2/30340/editor-html/8940638.png
   name: Uptime Monitor

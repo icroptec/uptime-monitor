@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gateway-abs-gprs-absltda-com-br",
     "status": "up",
-    "uptime": "4.45%",
-    "uptimeDay": "4.45%",
-    "uptimeWeek": "4.45%",
-    "uptimeMonth": "4.45%",
-    "uptimeYear": "4.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2024-11-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Python Power",

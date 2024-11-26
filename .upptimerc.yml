@@ -3,7 +3,9 @@ repo: uptime-monitor
 
 sites:
   - name: Vision
-    url: http://vision.icrop.online
+    check: "tcp-ping"
+    url: 34.49.19.147
+    port: 80
   - name: Power
     url: https://icroppower.icrop.com.br
   - name: Power Backend

@@ -6,20 +6,26 @@ sites:
     url: http://vision.icrop.online
   - name: Power
     url: https://icroppower.icrop.com.br
+  - name: Power Backend
+    url: https://icroppower.icrop.com.br/api/v1
+  - name: API Python Power
+    url: https://icroppower.icrop.com.br/py/api/v1/health
   - name: Icrop Website
     url: https://icrop.com.br
   - name: IOT
     url: https://iot.icrop.com.br
+  - name: Mural iCrop
+    url: https://mural.icrop.com.br
   - name: Feedz
     url: https://app.feedz.com.br
 
 status-website:
   baseUrl: /uptime-monitor
-  logoUrl: https://icrop.com.br/franquias/2/30340/editor-html/8940638.png
-  name: Uptime Monitor
+  logoUrl: https://icrop.com.br/wp-content/uploads/2023/05/logo-icrop.png
+  name: iCrop Uptime Monitor
   theme: night
   navbar:
     - title: IARA
-      href: https://wa.me/553432100520
+      href: https://wa.me/5508003210520
 
 robotsText: "User-agent: *"

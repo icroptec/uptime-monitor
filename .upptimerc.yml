@@ -12,8 +12,12 @@ sites:
     url: https://icroppower.icrop.com.br/api/v1
   - name: API Python Power
     url: https://icroppower.icrop.com.br/py/api/v1/health
-  - name: Icrop Website
+  - name: Icrop Website (icrop.com.br)
     url: https://icrop.com.br
+  - name: Icrop Website (icrop.us)
+    url: https://icrop.us
+  - name: Icrop Website (icrop.africa)
+    url: https://icrop.africa
   - name: IOT
     url: https://iot.icrop.com.br
   - name: Mural iCrop

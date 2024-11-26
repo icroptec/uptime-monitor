@@ -24,6 +24,8 @@ sites:
     url: https://mural.icrop.com.br
   - name: Feedz
     url: https://app.feedz.com.br
+  - name: iCrop AgroBI
+    url: https://icrop.agrobi.net/
 
 status-website:
   baseUrl: /uptime-monitor

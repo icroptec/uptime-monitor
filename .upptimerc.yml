@@ -2,7 +2,7 @@ owner: icroptec
 repo: uptime-monitor
 
 sites:
-  - name: Vision
+  - name: Vision (vision.icrop.online)
     check: "tcp-ping"
     url: 34.49.19.147
     port: 80
@@ -10,6 +10,10 @@ sites:
     url: https://icroppower.icrop.com.br
   - name: Power Backend
     url: https://icroppower.icrop.com.br/api/v1
+  - name: Gateway ABS (gprs.absltda.com.br)
+    check: "tcp-ping"
+    url: 187.84.232.82
+    port: 80
   - name: API Python Power
     url: https://icroppower.icrop.com.br/py/api/v1/health
   - name: Icrop Website

@@ -14,10 +14,8 @@ sites:
     url: https://icroppower.icrop.com.br/py/api/v1/health
   - name: Icrop Website (icrop.com.br)
     url: https://icrop.com.br
-  - name: Icrop Website (icrop.us)
-    url: https://icrop.us
-  - name: Icrop Website (icrop.africa)
-    url: https://icrop.africa
+  - name: Automation.icrop.ai
+    url: https://automation.icrop.ai
   - name: iCrop AgroBI
     url: https://icrop.agrobi.net/
   - name: Mural iCrop

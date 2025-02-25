@@ -15,7 +15,9 @@ sites:
   - name: Icrop Website (icrop.com.br)
     url: https://icrop.com.br
   - name: Automation.icrop.ai
-    url: https://automation.icrop.ai
+    check: "tcp-ping"
+    url: 3.82.141.244
+    port: 80
   - name: iCrop AgroBI
     url: https://icrop.agrobi.net/
   - name: Mural iCrop

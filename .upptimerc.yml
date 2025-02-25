@@ -6,14 +6,12 @@ sites:
     check: "tcp-ping"
     url: 34.49.19.147
     port: 80
+  - name: Kill
+    url: https://kill.icrop.ai
   - name: Vision app
     url: https://app23.icrop.online/home
   - name: Power
     url: https://icroppower.icrop.com.br
-  - name: Power Backend
-    url: https://icroppower.icrop.com.br/api/v1
-  - name: API Python Power
-    url: https://icroppower.icrop.com.br/py/api/v1/health
   - name: Icrop Website (icrop.com.br)
     url: https://icrop.com.br
   - name: Pivot Design

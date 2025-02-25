@@ -6,6 +6,8 @@ sites:
     check: "tcp-ping"
     url: 34.49.19.147
     port: 80
+  - name: Vision app
+    url: https://app23.icrop.online/home
   - name: Power
     url: https://icroppower.icrop.com.br
   - name: Power Backend
@@ -14,6 +16,8 @@ sites:
     url: https://icroppower.icrop.com.br/py/api/v1/health
   - name: Icrop Website (icrop.com.br)
     url: https://icrop.com.br
+  - name: Pivot Design
+    url: https://pivotdesign.icrop.online
   - name: Automation.icrop.ai
     check: "tcp-ping"
     url: 3.82.141.244
@@ -22,8 +26,6 @@ sites:
     url: https://icrop.agrobi.net/
   - name: Mural iCrop
     url: https://mural.icrop.com.br
-  - name: Feedz
-    url: https://app.feedz.com.br
 
 status-website:
   baseUrl: /uptime-monitor

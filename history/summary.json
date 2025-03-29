@@ -76,19 +76,19 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website-icrop-com-br",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1118,
-    "timeDay": 837,
-    "timeWeek": 1081,
+    "time": 1117,
+    "timeDay": 935,
+    "timeWeek": 1075,
     "timeMonth": 1037,
-    "timeYear": 1118,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2025-03-29": 0
+      "2025-03-29": 5
     }
   },
   {

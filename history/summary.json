@@ -112,18 +112,19 @@
     "url": "3.82.141.244",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automation-icrop-ai",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.23%",
     "time": 36,
     "timeDay": 73,
     "timeWeek": 33,
     "timeMonth": 34,
     "timeYear": 36,
     "dailyMinutesDown": {
+      "2025-04-02": 0,
       "2025-02-25": 696,
       "2025-02-24": 244
     }

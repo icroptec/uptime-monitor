@@ -78,10 +78,10 @@
     "url": "https://icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/icrop.com.br.ico",
     "slug": "icrop-website-icrop-com-br",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1107,
@@ -89,7 +89,9 @@
     "timeWeek": 902,
     "timeMonth": 1020,
     "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 1
+    }
   },
   {
     "name": "Pivot Design",
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automation-icrop-ai",
     "status": "down",
-    "uptime": "47.32%",
+    "uptime": "47.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.50%",
+    "uptimeWeek": "0.15%",
     "uptimeMonth": "2.23%",
-    "uptimeYear": "47.32%",
+    "uptimeYear": "47.05%",
     "time": 58,
     "timeDay": 0,
     "timeWeek": 897,
     "timeMonth": 277,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2025-05-13": 3,
+      "2025-05-13": 630,
       "2025-05-12": 1439,
       "2025-05-11": 1435,
       "2025-05-10": 1440,

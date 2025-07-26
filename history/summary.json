@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-07-26": 1227,
+      "2025-07-26": 1237,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -262,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2025-07-26": 1227,
+      "2025-07-26": 1237,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -304,19 +304,19 @@
     "url": "https://mural.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/mural.icrop.com.br.ico",
     "slug": "mural-i-crop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 258,
-    "timeWeek": 241,
+    "timeDay": 236,
+    "timeWeek": 238,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-07-26": 0
+      "2025-07-26": 9
     }
   }
 ]

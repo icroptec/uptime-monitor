@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-07-27": 1070,
+      "2025-07-27": 1076,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -252,18 +252,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/icrop.agrobi.net.ico",
     "slug": "i-crop-agro-bi",
     "status": "down",
-    "uptime": "86.19%",
+    "uptime": "86.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.19%",
+    "uptimeYear": "86.18%",
     "time": 1765,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2025-07-27": 1070,
+      "2025-07-27": 1076,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -306,19 +306,19 @@
     "url": "https://mural.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/mural.icrop.com.br.ico",
     "slug": "mural-i-crop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 234,
+    "timeDay": 233,
     "timeWeek": 236,
     "timeMonth": 233,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 6
     }
   }
 ]

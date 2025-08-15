@@ -9,9 +9,7 @@ sites:
   - name: Vision app
     url: https://app23.icrop.online/home
   - name: Banco de Dados Vision
-    check: "tcp-ping"
-    url: 34.23.124.11
-    port: 3306
+    url: https://vision.icrop.online/site-statusmon
   - name: Kill
     url: https://kill.icrop.ai
   - name: Power

@@ -22,9 +22,9 @@ sites:
     url: https://app23.icrop.online
 
 status-website:
-  baseUrl: /
-  logoUrl: https://icrop.com.br/wp-content/uploads/2023/05/logo-icrop.png
   name: iCrop Uptime Monitor
+  logoUrl: https://icrop.com.br/wp-content/uploads/2023/05/logo-icrop.png
+  cname: uptime.icrop.online
   theme: night
   navbar:
     - title: IARA

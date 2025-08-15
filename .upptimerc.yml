@@ -6,10 +6,14 @@ sites:
     check: "tcp-ping"
     url: 34.49.19.147
     port: 80
-  - name: Kill
-    url: https://kill.icrop.ai
   - name: Vision app
     url: https://app23.icrop.online/home
+  - name: Banco de Dados Vision
+    check: "tcp-ping"
+    url: 34.23.124.11
+    port: 3306
+  - name: Kill
+    url: https://kill.icrop.ai
   - name: Power
     url: https://icroppower.icrop.com.br
   - name: Icrop Website (icrop.com.br)
@@ -18,8 +22,6 @@ sites:
     url: https://pivotdesign.icrop.online
   - name: Mural iCrop
     url: https://mural.icrop.com.br
-  - name: Aplicativo Vision
-    url: https://app23.icrop.online
 
 status-website:
   name: iCrop Uptime Monitor

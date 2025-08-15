@@ -16,17 +16,13 @@ sites:
     url: https://icrop.com.br
   - name: Pivot Design
     url: https://pivotdesign.icrop.online
-  - name: Automation.icrop.ai
-    check: "tcp-ping"
-    url: 3.82.141.244
-    port: 80
-  - name: iCrop AgroBI
-    url: https://icrop.agrobi.net/
   - name: Mural iCrop
     url: https://mural.icrop.com.br
+  - name: Aplicativo Vision
+    url: https://app23.icrop.online
 
 status-website:
-  baseUrl: /uptime-monitor
+  baseUrl: /
   logoUrl: https://icrop.com.br/wp-content/uploads/2023/05/logo-icrop.png
   name: iCrop Uptime Monitor
   theme: night

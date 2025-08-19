@@ -100,18 +100,16 @@
     "slug": "icrop-website-icrop-com-br",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1117,
     "timeDay": 832,
     "timeWeek": 1067,
     "timeMonth": 1167,
     "timeYear": 1117,
-    "dailyMinutesDown": {
-      "2025-08-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pivot Design",

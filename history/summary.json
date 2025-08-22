@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 241,
-    "timeWeek": 332,
+    "timeWeek": 344,
     "timeMonth": 307,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -43,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/vision.icrop.online.ico",
     "slug": "banco-de-dados-vision",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 175,
     "timeDay": 404,
-    "timeWeek": 175,
+    "timeWeek": 186,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 210,
-    "timeWeek": 217,
+    "timeWeek": 221,
     "timeMonth": 183,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 216,
-    "timeWeek": 371,
+    "timeWeek": 362,
     "timeMonth": 352,
     "timeYear": 300,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 1116,
     "timeDay": 1089,
-    "timeWeek": 1038,
+    "timeWeek": 1009,
     "timeMonth": 1156,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 157,
-    "timeWeek": 434,
+    "timeWeek": 431,
     "timeMonth": 397,
     "timeYear": 340,
     "dailyMinutesDown": {}
@@ -136,17 +136,19 @@
     "url": "https://mural.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/mural.icrop.com.br.ico",
     "slug": "mural-i-crop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 187,
-    "timeWeek": 266,
+    "timeWeek": 244,
     "timeMonth": 241,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   }
 ]

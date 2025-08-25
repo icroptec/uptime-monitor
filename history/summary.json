@@ -137,19 +137,19 @@
     "url": "https://mural.icrop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/mural.icrop.com.br.ico",
     "slug": "mural-i-crop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 212,
-    "timeWeek": 213,
-    "timeMonth": 240,
+    "timeDay": 238,
+    "timeWeek": 221,
+    "timeMonth": 242,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 5
     }
   }
 ]

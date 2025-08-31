@@ -139,9 +139,9 @@
     "slug": "mural-i-crop",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 231,
@@ -149,8 +149,6 @@
     "timeMonth": 248,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-08-31": 0,
-      "2025-08-30": 5,
       "2025-08-26": 37
     }
   }

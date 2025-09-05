@@ -22,9 +22,9 @@
     "url": "https://app23.icrop.online/home",
     "icon": "https://icons.duckduckgo.com/ip3/app23.icrop.online.ico",
     "slug": "vision-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 270,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2025-09-05": 0,
       "2025-04-25": 15
     }
   },
@@ -106,7 +107,7 @@
     "uptimeYear": "99.97%",
     "time": 1108,
     "timeDay": 899,
-    "timeWeek": 994,
+    "timeWeek": 980,
     "timeMonth": 1035,
     "timeYear": 1108,
     "dailyMinutesDown": {
@@ -144,8 +145,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 241,
-    "timeWeek": 256,
+    "timeDay": 205,
+    "timeWeek": 260,
     "timeMonth": 249,
     "timeYear": 234,
     "dailyMinutesDown": {

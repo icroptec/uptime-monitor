@@ -25,6 +25,7 @@ status-website:
   name: iCrop Uptime Monitor
   logoUrl: https://icrop.com.br/wp-content/uploads/2023/05/logo-icrop.png
   cname: uptime.icrop.online
+  baseUrl: https://icrop.online/uptime/
   theme: night
   navbar:
     - title: IARA

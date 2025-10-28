@@ -21,7 +21,6 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
-
 jobs:
   release:
     name: Check status
@@ -32,7 +31,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.40.1
         with:
@@ -40,17 +38,3 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
-
-      # ===========================================
-      # 🚀 Upload summary.json para o servidor FTP
-      # ===========================================
-      - name: Upload summary.json via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: history/
-          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
-          protocol: ftp
-          timeout: 60

@@ -6,6 +6,10 @@ sites:
     check: "tcp-ping"
     url: 34.49.19.147
     port: 80
+  - name: iCrop Performance
+    check: "tcp-ping"
+    url:  35.243.207.1
+    port: 80
   - name: Vision app
     url: https://app23.icrop.online/home
   - name: Banco de Dados Vision
@@ -14,8 +18,6 @@ sites:
     url: https://kill.icrop.ai
   - name: Power
     url: https://icroppower.icrop.com.br
-  - name: Icrop Website (icrop.com.br)
-    url: https://icrop.com.br
   - name: Pivot Design
     url: https://pivotdesign.icrop.online
   - name: Mural iCrop

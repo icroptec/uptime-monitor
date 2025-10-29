@@ -52,5 +52,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: history/
           server-dir: ${{ secrets.FTP_REMOTE_DIR }}
-          protocol: ftp
+          protocol: ftps
           timeout: 60

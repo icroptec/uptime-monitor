@@ -40,9 +40,9 @@
     "url": "https://app23.icrop.online/home",
     "icon": "https://icons.duckduckgo.com/ip3/app23.icrop.online.ico",
     "slug": "vision-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +52,7 @@
     "timeMonth": 295,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2025-11-03": 0,
       "2025-09-05": 24,
       "2025-04-25": 15
     }

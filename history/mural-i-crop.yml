@@ -1,7 +1,7 @@
 url: https://mural.icrop.com.br
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2026-01-15T23:03:43.946Z
+status: down
+code: 403
+responseTime: 280
+lastUpdated: 2026-01-16T17:35:34.698Z
 startTime: 2024-11-26T21:01:54.280Z
 generator: Upptime <https://github.com/upptime/upptime>
